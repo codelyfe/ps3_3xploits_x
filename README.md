@@ -23,6 +23,15 @@
 5. Upload "PS3UPDAT.PUP" to USB; inside "UPDATE" folder 
 
 ## RESOURCE LINKS
+PS3 Jailbreak CFW and PS3HEN
+- https://www.psx-place.com/forums/ps3-jailbreak-cfw-and-ps3hen.86/
+
+PS3 Homebrew
+- https://www.psx-place.com/forums/ps3-homebrew.49/
+
+The Great Ps3 HEN All in One Guide
+- https://www.psx-place.com/threads/tutorial-ps3hen-the-great-ps3-hen-all-in-one-guide.24369/
+
 PS3 DEV WIKI
 - https://www.psdevwiki.com/ps3/Main_Page
 
