@@ -8,7 +8,7 @@
 
 1. Format USB
 2. Install CFW from links provided below to PC
-3. Create "PS3" folder or USB
+3. Create "PS3" folder on USB
 4. Create "UPDATE" folder inside "PS3" folder
 5. Upload "PS3UPDAT.PUP" to USB; inside "UPDATE" folder 
 
