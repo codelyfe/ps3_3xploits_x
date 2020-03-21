@@ -13,6 +13,9 @@
 5. Upload "PS3UPDAT.PUP" to USB; inside "UPDATE" folder 
 
 ## RESOURCE LINKS
+PS3 DEV WIKI
+- https://www.psdevwiki.com/ps3/Main_Page
+
 PS3 Tool Collection
 - https://www.psx-place.com/resources/ps3-tools-collection.594/
 
@@ -36,6 +39,13 @@ PS3 HOMEBREW STORE 3
 MULTIMAN
 - https://www.psx-place.com/threads/update-multiman-04-85-01-official-update-from-deank-adds-4-83-4-85-cfw-support-ps3hen-support.26435/
 
+CCAPI ( CONTROL CONSOLE )
+ - https://www.psx-place.com/threads/ccapi-control-console-api-v2-80-r2-4-82-cfw-support-new-vsh-menu-ps3-tool-support.16045/
+
+- https://www.enstoneworld.com/articles/view/15/ControlConsole_API
+
+NOTE: 
+- MOST PACKAGES CAN BE DOWNLOADED FROM PS3 HOMEBREW STORE (1-3)
 
 ## FIRMWARE RESOURCE LINKS
 
@@ -48,7 +58,7 @@ SKRPTKTTY/PS FIRMWARE BEGINNERS LUCK
 DOWNLOAD MOST CFW HERE (IMPORTANT)
 - http://www.homebrewstore.altervista.org/Scelta_CFW_Eng.html
 
-## FIRMWARE
+## FIRMWARE (CFW)
 - HFW 4.85.1
 - 3.55 SPECIAL OTHEROS++
 - FERROX 4.85 COBRA 8.20
