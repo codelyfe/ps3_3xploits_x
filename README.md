@@ -2,14 +2,18 @@
 #### A guide to Jailbreaking your PS3. After many days of searching the WWW and SOOO many trials and errors I was able to enjoy my Jailbroken PS3. Took me more than 5 days to get the right CFW for me and im still messing around with new CFWs and features every day.
 #### Let's get started! 
 
-#### I AM USING...
-![Image of ps3](https://i.ibb.co/jGsNSj8/ps3.png)
-
 ### HOW TO INSTALL FIRMWARE?
 #### NEED
 - USB 2G
+
+![Image of usb](https://i.ibb.co/TWHC0Ks/IMG-1991.jpg)
 - PC
+
+![Image of pc stats](https://i.ibb.co/q5fcbtQ/2020-03-21-0714.png)
+
 - PS3
+
+![Image of ps3](https://i.ibb.co/jGsNSj8/ps3.png)
 
 #### INSTRUCTIONS
 1. Format USB
