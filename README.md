@@ -29,6 +29,9 @@ PS3 Jailbreak CFW and PS3HEN
 PS3 Homebrew
 - https://www.psx-place.com/forums/ps3-homebrew.49/
 
+Game Mods
+- https://www.psx-place.com/forums/game-mods.91/
+
 The Great Ps3 HEN All in One Guide
 - https://www.psx-place.com/threads/tutorial-ps3hen-the-great-ps3-hen-all-in-one-guide.24369/
 
