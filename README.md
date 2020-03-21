@@ -56,7 +56,15 @@ PS3 HOMEBREW STORE 2
 PS3 HOMEBREW STORE 3
 - https://store.brewology.com/
 
+## COLDBOOT
+PS3Xploit v3 HAN Cold Boot Installer [raf/ac3]
+- https://www.psx-place.com/threads/ps3xploit-v3-han-cold-boot-installer-raf-ac3.17100/
+
 ## PACKAGES
+HAN Toolbox (v0.3) - A very functional XMB MOD for PS3Xploit HAN 
+
+(by Devil303 / Pink1)
+- https://www.psx-place.com/threads/han-toolbox-v0-3-a-very-functional-xmb-mod-for-ps3xploit-han-by-devil303-pink1.16942/
 
 MULTIMAN
 - https://www.psx-place.com/threads/update-multiman-04-85-01-official-update-from-deank-adds-4-83-4-85-cfw-support-ps3hen-support.26435/
