@@ -1,6 +1,17 @@
 # This is the Complete PS3 3xploit Guide
 ### Full of useful BS.
 
+### HOW TO INSTALL FIRMWARE?
+- USB 2G
+- PC
+- PS3
+
+1. Format USB
+2. Install CFW from links provided below to PC
+3. Create "PS3" folder or USB
+4. Create "UPDATE" folder inside "PS3" folder
+5. Upload "PS3UPDAT.PUP" to USB; inside "UPDATE" folder 
+
 ## RESOURCE LINKS
 PS3 Tool Collection
 - https://www.psx-place.com/resources/ps3-tools-collection.594/
@@ -18,7 +29,7 @@ PS3 HOMEBREW STORE 2
 - https://www.psx-place.com/resources/categories/playstation-3-ps3.3/
 
 PS3 HOMEBREW STORE 3
--
+- https://store.brewology.com/
 
 ## PACKAGES
 
@@ -33,6 +44,9 @@ HFW
 
 SKRPTKTTY/PS FIRMWARE BEGINNERS LUCK
 - https://github.com/skrptktty/ps3-firmware-beginners-luck
+
+DOWNLOAD MOST CFW HERE (IMPORTANT)
+- http://www.homebrewstore.altervista.org/Scelta_CFW_Eng.html
 
 ## FIRMWARE
 - HFW 4.85.1
