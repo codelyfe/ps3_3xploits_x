@@ -42,7 +42,8 @@ PS3 HOMEBREW STORE 3
 MULTIMAN
 - https://www.psx-place.com/threads/update-multiman-04-85-01-official-update-from-deank-adds-4-83-4-85-cfw-support-ps3hen-support.26435/
 
-CCAPI ( CONTROL CONSOLE )
+*WARNING:* CCAPI ( CONTROL CONSOLE ) ( 50/50 Chance you brick device. )
+#### Dont use if you dont have a brain to repair the HDD after you brick it using this package. Links were provided to show you how awesome it was to brick a HDD.
  - https://www.psx-place.com/threads/ccapi-control-console-api-v2-80-r2-4-82-cfw-support-new-vsh-menu-ps3-tool-support.16045/
 
 - https://www.enstoneworld.com/articles/view/15/ControlConsole_API
