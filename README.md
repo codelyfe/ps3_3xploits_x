@@ -1,11 +1,14 @@
 # This is the Complete PS3 3xploit Guide
-### Full of useful BS.
+#### A guide to Jailbreaking your PS3. After many days of searching the WWW and SOOO many trials and errors I was able to enjoy my Jailbroken PS3. Took me more than 5 days to get the right CFW for me and im still messing around with new CFWs and features every day.
+#### Let's get started! 
 
 ### HOW TO INSTALL FIRMWARE?
+#### NEED
 - USB 2G
 - PC
 - PS3
 
+#### INSTRUCTIONS
 1. Format USB
 2. Install CFW from links provided below to PC
 3. Create "PS3" folder on USB
